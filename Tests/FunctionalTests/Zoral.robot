@@ -12,7 +12,6 @@ ${browser}          chrome
 ${base_url}         https://www.aihitdata.com/
 ${login}            hiphopesthete@gmail.com
 ${password}         bKTCsSJX4Dd$3yN
-${count}            30
 ${industry}         mortgage
 ${location}         US
 
